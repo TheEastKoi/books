@@ -2,6 +2,8 @@
 
 **本仓库持续更新中，后续会陆续分享更多经典电子书，墙裂建议大家 Star 下本仓库，下次找书直接 Ctrl + F**
 
+![输入图片说明](./image/1.jpg)
+
 **如果国内访问Github网速较慢，可以访问码云：** https://gitee.com/xiaoleetongxue/csbooks
 
 - [电子书](#电子书)
@@ -67,28 +69,34 @@
 
 ## 03.Python
 
-- 《Python基础教程（第2版）》[百度云链接](https://pan.baidu.com/s/1o0d6B9K40t1krKj-BCYsnA ) 提取码：hkra
-- 《Python核心编程（第3版）中文》[百度云链接](https://pan.baidu.com/s/1rpzuJXd_pFa9w2tIQdZk_A ) 提取码：b7du
-- 《Python入门指南（中文版）》[百度云链接](https://pan.baidu.com/s/1CQRQ52Da-ul0s9shvy_cZQ ) 提取码：jqit
-- 《Python编程：从入门到实践》图灵程序设计丛书 [百度云链接](https://pan.baidu.com/s/1p4OPFsiSFaEhGp11IUS1Ag ) 提取码：0fp2
-- 《Python编程初学者指南》[百度云链接](https://pan.baidu.com/s/1CtOqnTB1h8fqXuN1LDGrLQ ) 提取码：mnx7
-- 《Python编程入门经典》[百度云链接](https://pan.baidu.com/s/1i0gc5q3HABaXw3HrdiXwtg ) 提取码：jlf4
-- 《Python3简明教程》[百度云链接](https://pan.baidu.com/s/1X0O5GWfBgfSiOs_tEgJhCQ ) 提取码：8s0y
-- 《Python开发实战》[百度云链接](https://pan.baidu.com/s/1uHH9iePcrUJnHokmfX94TQ ) 提取码：qh8n
-- 《Python开发技术详解》[百度云链接](https://pan.baidu.com/s/1okwYtQMw5qXmcVeXatdTYg ) 提取码：3jpm
-- 《笨办法学Python（第3版）》[百度云链接](https://pan.baidu.com/s/1kmOcQ-nX0QBKshdDE3CK6g ) 提取码：ih4t
-- 《编程小白的第一本python入门书》[百度云链接](https://pan.baidu.com/s/1OM37aS8o56MYBqEUl1stsg ) 提取码：6rin
-- 《Python操作Office》[百度云链接](https://pan.baidu.com/s/1J2ZvWd3Xp9ZONGOChf-cVw ) 提取码：jfe7
-- 《Python网络编程基础》[百度云链接](https://pan.baidu.com/s/1FnP6yFHtp42a-YOf37rprA ) 提取码：uku9
-- 《用Python写网络爬虫》[百度云链接](https://pan.baidu.com/s/1EBwV0DQ69YSJm0bybH_kXw ) 提取码：abyh
-- 《Python数据处理》[百度云链接](https://pan.baidu.com/s/1_OAXaVrIa7fHKO35bRWovg ) 提取码：lszl
-- 《Python和数据分析》[百度云链接](https://pan.baidu.com/s/11HWGzy7TPJk8TGImDPAG9A ) 提取码：acgx
-- 《Python科学计算与数据分析》[百度云链接](https://pan.baidu.com/s/1zBUKQcwnUrmhjzkZM85FRw ) 提取码：ydnt
-- 《Python金融大数据分析》[百度云链接](https://pan.baidu.com/s/1rl4PBlOgqKUTMXguGs8L-A ) 提取码：5ckm
-- 《Python数据分析实战》[百度云链接](https://pan.baidu.com/s/1rG18dXnN9ihQc8XM8YUy8A ) 提取码：3czk
-- 《Python数据可视化编程实战》[百度云链接](https://pan.baidu.com/s/1sz_8WeStaaavG20DlE7BZw ) 提取码：ysol
-- 《Python编程数据挖掘入门与实践(中文完整版)》[百度云链接](https://pan.baidu.com/s/1FW5eoY568p41nW5zMEbWRA ) 提取码：h1pu
-- 《利用python进行数据分析（第二版）》[百度云链接](https://pan.baidu.com/s/1vJU2ev1ovrz4sgdrqbscwA ) 提取码：5w5c
+- 《Numpy Basics》[百度云链接](https://pan.baidu.com/s/1aMFnqlPoM6d6vbz8pZVFaw ) 提取码：otcd
+- 《Pandas Basics》[百度云链接](https://pan.baidu.com/s/1eN82y-RoFQu1rn311e_sMQ ) 提取码：f2e6
+- 《Python3.5.1入门指南（中文版）》[百度云链接](https://pan.baidu.com/s/1AqTtRWonx0GKa6riutVKgg ) 提取码：e92y
+- 《Python3简明教程》[百度云链接](https://pan.baidu.com/s/1A94v_l2e55xEu-ueVEX3-g ) 提取码：cvlb
+- 《Python3网络爬虫数据采集》[百度云链接](https://pan.baidu.com/s/1WmSB5dyRNzwjZNHXjqKv5g ) 提取码：hvcb
+- 《Python编程：从入门到实践》[百度云链接](https://pan.baidu.com/s/12xoVFxh17StFXntGIAN09A ) 提取码：13xt
+- 《Python编程初学者指南》[百度云链接](https://pan.baidu.com/s/1WkBJlFwP65yJdTzGqO7AGA ) 提取码：87ob
+- 《Python编程入门经典》[百度云链接](https://pan.baidu.com/s/1Ec5SrYnG5OJGallLbLxjoA ) 提取码：tc3m
+- 《Python编程数据挖掘入门与实践(中文完整版)》[百度云链接](https://pan.baidu.com/s/1PtHohijXGhoQKGDRs_Fe8A ) 提取码：zg25
+- 《Python操作Office》[百度云链接](https://pan.baidu.com/s/1vWuHJbHKRYia9wc9Lt-sXQ ) 提取码：hepg
+- 《Python和数据分析》[百度云链接](https://pan.baidu.com/s/1VLC72IVOu01kvCxHlb-axA ) 提取码：i9pg
+- 《Python核心编程（第3版）中文》[百度云链接](https://pan.baidu.com/s/1yx4DJjZTS87qrospkKWtTQ ) 提取码：t6h1
+- 《Python基础教程（第2版）》[百度云链接](https://pan.baidu.com/s/1J7apsimj0XeqUMcu-wNHCQ ) 提取码：pgko
+- 《Python金融大数据分析》[百度云链接](https://pan.baidu.com/s/1Spqo0H_rx2WSyXVEwK1Olw ) 提取码：qgjf
+- 《Python开发技术详解》[百度云链接](https://pan.baidu.com/s/15kslijEXSiVRVDUTGd3elQ ) 提取码：98gd
+- 《Python开发实战》[百度云链接](https://pan.baidu.com/s/1mBfzA50j5F0EAVpc3uW_Wg ) 提取码：txgl
+- 《Python科学计算与数据分析》[百度云链接](https://pan.baidu.com/s/1DkN_5Lgfy9CaXYn5Xqto0g ) 提取码：lhsi
+- 《Python数据处理》[百度云链接](https://pan.baidu.com/s/1GY7og06cz-IUQkgsIUvfRA ) 提取码：omis
+- 《Python数据分析基础教程：NumPy学习指南（第2版）》[百度云链接](https://pan.baidu.com/s/1MsXxn9qMf92YeGkrVvPqhQ ) 提取码：asbv
+- 《Python数据分析实战》[百度云链接](https://pan.baidu.com/s/1uHFQSTxfaYv38xrmmIpvTg ) 提取码：tofd
+- 《Python数据可视化编程实战》[百度云链接](https://pan.baidu.com/s/1VINBLOhr6b6wPHngcn2F2g ) 提取码：xpnk
+- 《Python网络编程基础》[百度云链接](https://pan.baidu.com/s/1NugJl-421iKnW0VfT20Cag ) 提取码：h0c3
+- 《Python正则表达式-深入浅出》[百度云链接](https://pan.baidu.com/s/1gIBbT2yOAqFn-LwOtMt88Q ) 提取码：admz
+- 《笨办法学Python（第3版）》[百度云链接](https://pan.baidu.com/s/1BJCxyz1ghy_XCFdULXGRnw ) 提取码：6oyb
+- 《编程小白的第一本python入门书》[百度云链接](https://pan.baidu.com/s/1iDe3jlRTA1r5irXIalvp4A ) 提取码：8m06
+- 《可爱的Python(插图版)》[百度云链接](https://pan.baidu.com/s/1qPjd-2k3YJLxIBsMhV0g_g ) 提取码：wyh7
+- 《利用python进行数据分析-第二版》[百度云链接](https://pan.baidu.com/s/1e5mATfLGwFRX9vkgkLh3aw ) 提取码：92hx
+- 《用Python写网络爬虫》[百度云链接](https://pan.baidu.com/s/1GidUu-rWWktK2Nx28QTLNQ ) 提取码：pdve
 
 ## 04.Go
 
